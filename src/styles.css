@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+button{
+    width: 100%;
+    height: 100px;
+    background: #a5e5ff;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.app{
+    box-shadow:9px 3px 3px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid #fdadad;
+    background-color: #fdadad;
+}
